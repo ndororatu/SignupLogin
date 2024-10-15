@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60137878645",
+    "project_id": "signup-login-realtime-ecf20",
+    "storage_bucket": "signup-login-realtime-ecf20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60137878645:android:4d63852c77cbe24952343c",
+        "android_client_info": {
+          "package_name": "com.example.signuplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9MYkxg6Dmw5c3ic3WOo53ZKPUotfOVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
